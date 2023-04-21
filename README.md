@@ -4,11 +4,12 @@
 <h4 align="center">I am a 3rd Year Student at Pandit Deendayal Energy University pursuing B.Tech in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 
 <p align="center">
-<a  href = "mailto: jethwaakhil@gmail.com"><img align="center"  src="https://simpleicons.org/icons/gmail.svg"  height="30"  width="40" /></a>
 <a  href="https://www.linkedin.com/in/akhil-jethwa-817101256/"  target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="Akhil"  height="30"  width="40" /></a>
+<a  href = "https://www.kaggle.com/akhiljethwa"><img align="center"  src="https://simpleicons.org/icons/kaggle.svg"  height="39"  width="40" /></a>
+<a  href = "mailto: jethwaakhil@gmail.com"><img align="center"  src="https://simpleicons.org/icons/gmail.svg"  height="30"  width="40" /></a>
 <a  href = "https://github.com/Akhil-77"><img align="center"  src="https://simpleicons.org/icons/github.svg"  height="31"  width="40" /></a>
 <a  href = "https://www.instagram.com/7_akhil_7/"><img align="center"  src="https://simpleicons.org/icons/instagram.svg"  height="31"  width="40" /></a>
-<a  href = "https://www.kaggle.com/akhiljethwa"><img align="center"  src="https://simpleicons.org/icons/kaggle.svg"  height="39"  width="40" /></a>
+
 </p>
 <br>
 <h1 align="center">Technology Stack 💻  </h1>
