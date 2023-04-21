@@ -2,7 +2,7 @@
 <h3 align="center">Kaggle Expert | Data Science | Machine Learning | Graphic Design </h3>
 
 <h4 align="center">I am a 3rd Year Student at Pandit Deendayal Energy University pursuing B.Tech in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
-
+<br>
 <h1 align="center">Technology Stack 💻  </h1>
 
 <h4 align="center">ML & DL  </h4>
@@ -39,12 +39,15 @@
 <a target="_blank"><img  src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"  alt="pandas"/></a>
 <a target="_blank"><img  src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"  alt="laravel"/></a>
 
+<br>
+  
 <h1 align="center"> Statistical Data 📊 </h1>
 
 |_**Github Stats**_|_**Top Languages**_|
 |-----------|-------------|
 |<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil-77&theme=algolia" width="500" height="250">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-77&theme=algolia&hide=CSS,HTML,PHP&langs_count=3">|
 
+<br>
 <h1 align="center"> Other Badges 🏅 </h1>
 
 [![@akhil77's Holopin board](https://holopin.me/akhil77)](https://holopin.io/@akhil77)
