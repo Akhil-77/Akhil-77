@@ -54,7 +54,7 @@
 
 <hr>
 
-<h3 align="center"> Connect With Me:  </h4>
+<h3 align="center"> Connect With Me: </h4>
 <p align="center">
 <a  href="https://www.linkedin.com/in/akhil-jethwa-817101256/"  target="_blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="python"/></a>
 <a  href="https://www.kaggle.com/akhiljethwa"  target="_blank"><img  src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"  alt="python"/></a>
