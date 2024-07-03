@@ -1,7 +1,7 @@
 ![Header](./Github-Banner-Image.png)
 <h3 align="center">Kaggle Expert | Data Science | Machine Learning | Graphic Design </h3>
 
-<h4 align="center">I am a 3rd Year Student at Pandit Deendayal Energy University pursuing B.Tech in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am an upcoming Graduate student at Arizona State University. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <h1 align="center">Technology Stack 💻  </h1>
 
